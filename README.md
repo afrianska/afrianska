@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Afrian</h1>
 <h3 align="center">Designing And Coding Enthusiast</h3>
 
