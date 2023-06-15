@@ -1,4 +1,4 @@
-<img src="https://github.com/afrianska/afrianska/blob/master/me.webm" alt="Here is a little thing about me!">
+<img src="https://github.com/afrianska/afrianska/blob/main/me.webm" alt="Here is a little thing about me!">
 
 ### Hello World 👋
 
