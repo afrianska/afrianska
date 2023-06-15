@@ -1,5 +1,3 @@
-<img src="https://github.com/afrianska/afrianska/blob/main/me.gif" alt="Here is a little thing about me!">
-
 ### Hello World 👋
 
 My name is Afrian. I'm performer as UX/UI designer & web developer on daily stage. Have been more than 12 years become computer science & design enthusiasts meanwhile ever working in non-tech sector for some years before decide to full comeback on the path of building experience for web & mobile app. Beside of performing on daily stage, I doing something that I love in back stage like read books, watch movies/series, "hangout" in online forum. I wish I could create content either video or continue to write article [my Medium](https://medium.com/@afrian) soon. 
@@ -8,7 +6,6 @@ My name is Afrian. I'm performer as UX/UI designer & web developer on daily stag
 - 💼 Freelance UI/UX design & web developement.
 - 🌐 Exists somewhere on [Twitter](https://twitter.com/afrianska), [Instagram](https://www.instagram.com/afrianep/), my web [afrian.cc](https://www.afrian.cc), [Medium](https://medium.com/@afrian).
 - 😄 Pronouns: He/Him
-- 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Tea 🍵
 - 🤏 Speaking in : Indonesian, English, Javanese, Dutch (little bit).
 
 
