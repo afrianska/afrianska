@@ -3,7 +3,7 @@
 My name is Afrian. I perform as UX/UI designer & web developer on the daily stage of my life. Have been more than 12 years become computer science & design enthusiasts meanwhile ever working in non-tech sector for some years before decide to comeback to taking the path in tech industry especially on building experience for web & mobile app. Beside performing on daily stage, I do something in the back stage when I'm off duty such as reading books, watching movies/series, "hangout" in online forum. I wish I could create content soon, either video or deal with my stuck to write article. 
 
 ### Little Things About Me
-- 💼 Freelance UI/UX design & web developement.
+- 💼 Freelance UI/UX designer & software developer.
 - 🌐 Exists somewhere on [Twitter](https://twitter.com/afrianska), [Instagram](https://www.instagram.com/afrianep/), my web [afrian.cc](https://www.afrian.cc), [Medium](https://medium.com/@afrian).
 - 😄 Pronouns: He/Him
 - 🤏 Language I speak: Indonesian, English, Javanese, Dutch (little bit).
