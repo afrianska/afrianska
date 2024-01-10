@@ -15,7 +15,8 @@ My name is Afrian. A professional time-waster who still perform as a designer an
 
 
 > Front-end
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,remix,nextjs)]
+
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,remix,nextjs)
 
 ![HTML](https://img.shields.io/badge/-html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)![Javascript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Taiwind](https://img.shields.io/badge/-Tailwind-38B2AC?&style=for-the-badge&logo=tailwind%20css&logoColor=white)![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
