@@ -14,4 +14,4 @@ A professional time-waster who still perform as a designer and web developer on 
 ![My Skills](https://skillicons.dev/icons?i=svelte,remix,react,ts,tailwind,js,html,css,go,postgres&theme=dark)
 
 
-![](https://streak-stats.demolab.com?user=afrianska&theme=radical&card_width=400) ![](https://github-readme-stats.vercel.app/api?username=afrianska&theme=radical&show_icons=true&count_private=true&card_width=200)
+![](https://github-readme-stats.vercel.app/api?username=afrianska&theme=transparent&show_icons=true&count_private=true&card_width=200)![](https://streak-stats.demolab.com?user=afrianska&theme=transparent&card_width=400) 
