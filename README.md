@@ -11,7 +11,7 @@ A professional time-waster who still perform as a designer and web developer on 
 - 👀 What next? Interesting on [kotlin](https://kotlinlang.org/) + [jetpack-compose](https://developer.android.com/jetpack/compose).
 
 ### Current Tech Stack
-![My Skills](https://skillicons.dev/icons?i=svelte,remix,react,ts,tailwind,js,html,css,go,postgres&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,go,svelte,remix,react,tailwind,postgres&theme=dark)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=afrianska&theme=transparent&show_icons=true&count_private=true&hide_title=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=afrianska&layout=compact&theme=transparent)
