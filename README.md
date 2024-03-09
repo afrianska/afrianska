@@ -4,14 +4,14 @@ A professional time-waster who still perform as a designer and web developer on 
 
 ### Little Things About Me
 - 💼 Freelance UI/UX designer & web developer.
-- 🌐 Exists somewhere on [Twitter/X](https://twitter.com/afrianska), [Instagram](https://www.instagram.com/afrianep/), [Personal Web](https://www.afrian.cc), [Medium](https://medium.com/@afrian).
+- 🌐 Exists somewhere on [Twitter/X](https://twitter.com/afrianska), [Instagram](https://www.instagram.com/afrianep), [Dribbble](https://dribbble.com/afrianska/), [Personal Web](https://www.afrian.cc), [Design Blog](https://medium.com/@afrian).
 - 🧑🏻 Pronouns: He/Him
 - 🤏 Language I speak: Indonesian, English, Javanese.
 - 📖 Currently learning [go](https://go.dev/).
 - 👀 What next? Interesting on [kotlin](https://kotlinlang.org/) + [jetpack-compose](https://developer.android.com/jetpack/compose).
 
 ### Current Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,go,svelte,remix,react,tailwind,postgres&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,go&theme=dark)
 
 
 [![](https://github-readme-stats.vercel.app/api?username=afrianska&theme=transparent&show_icons=true&count_private=true&hide_title=true)](https://github.com/afrianska) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=afrianska&layout=compact&theme=transparent)](https://github.com/afrianska)
