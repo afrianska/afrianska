@@ -10,7 +10,7 @@ A professional time-waster who still perform as a designer and web developer on 
 - 📖 Currently learning [go](https://go.dev/).
 - 👀 What next? Interesting on [kotlin](https://kotlinlang.org/) + [jetpack-compose](https://developer.android.com/jetpack/compose).
 
-___
+---
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go&theme=dark)
 
 <!--
