@@ -7,8 +7,10 @@ A professional time-waster who still perform as a designer and web developer on 
 - 🌐 Exists somewhere on [Twitter/X](https://twitter.com/afrianska), [Instagram](https://www.instagram.com/afrianep), [Dribbble](https://dribbble.com/afrianska/), [Personal Web](https://www.afrian.cc), [Design Blog](https://medium.com/@afrian).
 - 🧑🏻 Pronouns: He/Him
 - 🤏 Language I speak: Indonesian, English, Javanese.
+<!--
 - 📖 Currently learning [go](https://go.dev/).
 - 👀 What next? Interesting on [kotlin](https://kotlinlang.org/) + [jetpack-compose](https://developer.android.com/jetpack/compose).
+-->
 
 ---
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go&theme=dark)
