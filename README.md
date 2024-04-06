@@ -13,5 +13,5 @@ A professional time-waster who still perform as a designer and web developer on 
 ### Current Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go&theme=dark)
 
-
-[![](https://github-readme-stats.vercel.app/api?username=afrianska&theme=transparent&show_icons=true&count_private=true&hide_title=true)](https://github.com/afrianska) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=afrianska&layout=compact&theme=transparent)](https://github.com/afrianska)
+<!--
+[![](https://github-readme-stats.vercel.app/api?username=afrianska&theme=transparent&show_icons=true&count_private=true&hide_title=true)](https://github.com/afrianska) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=afrianska&layout=compact&theme=transparent)](https://github.com/afrianska) -->
